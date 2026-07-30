@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhz-yan.github.io/yzz/sitemap.xml
+Sitemap: https://zhz-yan.github.io/sitemap.xml
