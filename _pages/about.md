@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>School of Electrical Engineering</p>
-    <p>Guangxi University</p>
-    <p>Nanning, Guangxi, China</p>
-
+  more_info: 
 selected_papers: false
 social: true
 
