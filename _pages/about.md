@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at Guangxi University
+subtitle:
 
 profile:
   align: right
