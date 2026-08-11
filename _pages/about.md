@@ -8,8 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: <p>Guangxi University</p>
-  <p><b>Email:</b> zhongzong.yan AT gxu.edu.cn</p>
+  more_info: >
+    <p>Guangxi University</p>
+    <p><b>Email:</b> zhongzong.yan AT gxu.edu.cn</p>
 selected_papers: false
 social: false
 
