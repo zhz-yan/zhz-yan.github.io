@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><b>Email:</b> zhongzong.yan AT gxu.edu.cn</p>
+    <p style="white-space: nowrap; font-size: 0.9em;"><b>Email:</b> zhongzong.yan AT gxu.edu.cn</p>
 selected_papers: false
 social: false
 
