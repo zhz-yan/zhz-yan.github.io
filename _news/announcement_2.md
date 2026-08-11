@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Successfully defended my dissertation.
+title: Successfully defended my dissertation!😊
 date: 2026-05-18 10:00:00+0800
 inline: false
 related_posts: false
@@ -19,4 +19,4 @@ Here are some photos from my graduation:
   </div>
 </div>
 
-It has been a wonderful journey, and I am excited for the new chapter at Guangxi University.
+It has been a wonderful journey, and I am deeply grateful to all my advisors, colleagues, and friends who supported me along the way.
