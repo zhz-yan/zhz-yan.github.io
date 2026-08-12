@@ -25,6 +25,6 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-Currently, there are no group members liste🤣. Stay tuned!
+Currently, there are no group members listed. Stay tuned.
 
 *(If you are a student interested in joining our research group, feel free to drop me an email!)*
