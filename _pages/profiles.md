@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: members of the lab or group
+description:
 nav: true
 nav_order: 7
 
@@ -25,8 +25,6 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-### Group Members
-
-Currently, there are no group members listed. Stay tuned!
+Currently, there are no group members liste🤣. Stay tuned!
 
 *(If you are a student interested in joining our research group, feel free to drop me an email!)*
