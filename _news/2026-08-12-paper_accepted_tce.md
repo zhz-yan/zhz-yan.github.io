@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by *IEEE TCE*. Congrats to Pengfei! 🎉
+One paper was accepted by **IEEE TCE**. Congrats to Pengfei! 🎉 [link](https://ieeexplore.ieee.org/document/11655889)
