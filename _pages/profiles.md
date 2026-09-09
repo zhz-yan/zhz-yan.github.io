@@ -25,7 +25,7 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-#### Graduate Students
+#### Graduate students
 - Lingjuan Zeng (曾令娟), Master Student (2026.09 – Present)
 
 
