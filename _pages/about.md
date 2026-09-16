@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p style="white-space: nowrap; font-size: 0.9em;"><b>Email:</b> zhongzong.yan AT gxu.edu.cn</p>
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: true
