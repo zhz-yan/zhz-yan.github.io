@@ -26,7 +26,8 @@ nav_order: 7
 ---
 
 #### Graduate students
-- Lingjuan Zeng (曾令娟), Master Student (2026.09 – Present)
+- Lingjuan Zeng (曾令娟), Master's student (2026.09 – Present)
+- Gaoxiang Liu (刘高翔), Master's student (2026.09 – Present)
 
 
 *(If you are a student interested in joining our research group, feel free to drop me an email!)*
