@@ -25,10 +25,11 @@ nav_order: 7
 #       <p>Your City, State 12345</p>
 ---
 
-#### Graduate students
-- Lingjuan Zeng (曾令娟), Master's student (2026 – Present)
-- Gaoxiang Liu (刘高翔), Master's student (2026 – Present)
-- Jinghui Wang (王静荟), Master's student (2026 – Present)
+#### Master's students
+- Lingjuan Zeng (曾令娟), 2026–Present
+- Gaoxiang Liu (刘高翔), 2026–Present
+- Jinghui Wang (王静荟), 2026–Present
+- Keren Chen (陈科任), 2026–Present
 
 
 *(If you are a student interested in joining our research group, feel free to drop me an email!)*
